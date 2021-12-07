@@ -1,4 +1,4 @@
-# Google Text to Speech Client
+# Google Text to Speech Script
 
 A Python script used to convert text to speech using Google Text-to-Speech/Wavenet
 Please note:
