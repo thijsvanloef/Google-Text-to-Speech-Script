@@ -3,6 +3,7 @@
 A Python script used to convert text to speech using Google Text-to-Speech/Wavenet
 Please note:
 
+- THIS IS STILL A WIP, PLEASE USE AT YOUR OWN RISK
 - This script uses WaveNet, this will allow you to synthesize 1.000.000 characters every month, synthesizing more will cost you money!
 - This Client is limited to 5000 characters per request.
 
